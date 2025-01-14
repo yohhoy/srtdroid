@@ -1,6 +1,26 @@
 Changelog
 ==========
 
+Version 1.9.0
+-------------
+
+## Dependencies:
+
+- srt 1.5.4
+- openssl 3.0.9
+
+Version 1.8.5
+-------------
+
+## Dependencies:
+
+- srt 1.5.3
+- openssl 3.0.9
+
+## Bug fixes:
+
+- ktx: close socket when connection fails to avoid resource leak
+
 Version 1.8.4
 -------------
 
